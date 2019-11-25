@@ -1,0 +1,18 @@
+IF
+True()
+THEN RESPONSE #100
+CutSceneId(Player1)
+StartCutSceneMode()
+FadeToColor([40.0],0)
+Wait(1)
+PlaySound("VALYGA36")
+Wait(1)
+PlaySound("VALYGA37")
+Wait(1)
+PlaySound("VALYGA08")
+Wait(1)
+FadeFromColor([40.0],0)
+Wait(1)
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",16)
+EndCutSceneMode()
+END

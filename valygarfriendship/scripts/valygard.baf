@@ -1,0 +1,14 @@
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+AreaType(FOREST)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalks","GLOBAL",12)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+RealGlobalTimerExpired("I#ValygarFriendshipTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",13)
+END

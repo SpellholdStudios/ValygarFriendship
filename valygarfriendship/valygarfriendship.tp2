@@ -1,0 +1,53 @@
+BACKUP ~ValygarFriendship/backup~
+AUTHOR ~Lava~
+README ~ValygarFriendship/ReadMe.html~
+
+AUTO_TRA ~ValygarFriendship/TRANSLATIONS/%s~
+
+VERSION ~1.0~
+
+ALWAYS
+  // No exception, everything needs to be converted
+  ACTION_DEFINE_ARRAY ValyFriendnoconvert BEGIN END
+
+  // any tra files used in LANGUAGE need to be reloaded after UTF-8 conversion
+  ACTION_DEFINE_ARRAY ValyFriendreload BEGIN setup END
+
+  LAF HANDLE_CHARSETS
+    INT_VAR
+      infer_charsets = 1
+    STR_VAR
+      tra_path = EVAL ~%MOD_FOLDER%/Translations~
+      noconvert_array = ValyFriendnoconvert
+      reload_array = ValyFriendreload
+  END
+END
+
+LANGUAGE ~English~ ~English~ ~ValygarFriendship/TRANSLATIONS/English/setup.tra~
+// LANGUAGE ~Russian~ ~Russian~ ~ValygarFriendship/TRANSLATIONS/Russian/setup.tra~
+//LANGUAGE ~Polish~ ~Polish~ ~ValygarFriendship/TRANSLATIONS/Polish/setup.tra~
+
+//NOTE: Translations skipped as they are outdated after the mod update
+
+///////////////////////////////////////////
+///////////////////MAIN////////////////////
+///////////////////////////////////////////
+
+BEGIN @0
+
+APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~
+UNLESS ~CD_STATE_NOTVALID~
+
+/////////DIALOGUES
+
+COMPILE ~ValygarFriendship/Dialogues/ValygarJ.d~
+COMPILE ~ValygarFriendship/Dialogues/Valyg25J.d~
+
+/////////SCRIPTS
+
+EXTEND_TOP ~ValygarD.bcs~ ~ValygarFriendship/Scripts/ValygarD.baf~
+EXTEND_TOP ~Valygar.bcs~ ~ValygarFriendship/Scripts/Valygar.baf~
+EXTEND_TOP ~Valy25.bcs~ ~ValygarFriendship/Scripts/Valy25.baf~
+COMPILE ~ValygarFriendship/Scripts/I#ValFC1.baf~
+
+

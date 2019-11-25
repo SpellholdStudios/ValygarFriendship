@@ -1,0 +1,431 @@
+//Romance lock script
+
+IF
+Global("I#NPCIEPValygarDetected","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("I#NPCIEPValygarDetected","GLOBAL",1)
+END
+
+
+IF
+Global("H#ValygarMatch","GLOBAL",1)
+Global("H#ValygarRomanceActive","GLOBAL",1)
+Global("I#ValygarLockFriendshipRom","GLOBAL",0)
+OR(3)
+Global("I#ValygarFriendshupActive","GLOBAL",0)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+Global("I#ValygarFriendshupActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarLockFriendshipRom","GLOBAL",1)
+SetGlobal("I#ValygarFriendshupActive","GLOBAL",3)
+END
+
+IF
+Global("H#ValygarMatch","GLOBAL",1)
+Global("H#ValygarRomanceActive","GLOBAL",3)
+Global("I#ValygarLockFriendshipRom","GLOBAL",1)
+Global("I#ValygarFriendshupActive","GLOBAL",3)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshupActive","GLOBAL",1)
+RealSetGlobalTimer("I#ValygarFriendshipTime","GLOBAL",1800)
+END
+
+//Normal Relationship
+
+//1
+
+IF
+InParty(Myself)
+Global("BValygar9","LOCALS",1)
+Global("BValygar7","LOCALS",1)
+Global("BValygar8","LOCALS",1)
+GlobalGT("LavokDead","GLOBAL",0)
+Global("I#ValygarFriendshipTalks","GLOBAL",0)
+Global("I#ValygarFriendshupActive","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",1)
+SetGlobal("I#ValygarFriendshupActive","GLOBAL",1)
+RealSetGlobalTimer("I#ValygarFriendshipTime","GLOBAL",1800)
+END
+
+
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+!AreaType(DUNGEON)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalks","GLOBAL",1)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+RealGlobalTimerExpired("I#ValygarFriendshipTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",2)
+END
+
+IF
+Global("I#ValygarFriendshipTalks","GLOBAL",2)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//2
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+Global("I#ValygarFriendshipTalks","GLOBAL",3)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",4)
+RealSetGlobalTimer("I#ValygarFriendshipTime","GLOBAL",1800)
+END
+
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+!AreaType(DUNGEON)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalks","GLOBAL",4)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+RealGlobalTimerExpired("I#ValygarFriendshipTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",5)
+END
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshipTalks","GLOBAL",5)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//3
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+Global("I#ValygarFriendshipTalks","GLOBAL",6)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",7)
+RealSetGlobalTimer("I#ValygarFriendshipTime","GLOBAL",1800)
+END
+
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+!AreaType(DUNGEON)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalks","GLOBAL",7)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+RealGlobalTimerExpired("I#ValygarFriendshipTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",8)
+END
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshipTalks","GLOBAL",8)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//4
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+Global("I#ValygarFriendshipTalks","GLOBAL",9)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",10)
+RealSetGlobalTimer("I#ValygarFriendshipTime","GLOBAL",1800)
+END
+
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+!AreaType(DUNGEON)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalks","GLOBAL",10)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+RealGlobalTimerExpired("I#ValygarFriendshipTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",11)
+END
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshipTalks","GLOBAL",11)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//5
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshupActive","GLOBAL",1)
+Global("I#ValygarFriendshipTalks","GLOBAL",13)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+IF
+Global("I#ValygarFriendshipTalks","GLOBAL",14)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",15)
+StartCutScene("I#ValFC1")
+END
+
+IF
+Global("I#ValygarFriendshipTalks","GLOBAL",16)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshipTalks","GLOBAL",17)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalks","GLOBAL",18)
+END
+
+//6
+
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+AreaCheck("AR1516")
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipIr1","GLOBAL",0)
+Global("OpenJonBedroom","GLOBAL",1)
+Global("I#ValygarFriendshupActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipIr1","GLOBAL",1)
+END
+
+IF
+Global("I#ValygarFriendshipIr1","GLOBAL",1)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//7
+
+IF
+InParty(Myself)
+Global("I#ValygarFriendshipIr1","GLOBAL",2)
+Global("I#ValygarFriendshupActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipIr1","GLOBAL",3)
+RealSetGlobalTimer("I#ValygarFriendshipIRTime","GLOBAL",2300)
+END
+
+IF
+InParty(Myself)
+See(Player1)
+CombatCounter(0)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipIr1","GLOBAL",3)
+Global("I#ValygarFriendshupActive","GLOBAL",2)
+RealGlobalTimerExpired("I#ValygarFriendshipIRTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipIr1","GLOBAL",4)
+END
+
+IF
+Global("I#ValygarFriendshipIr1","GLOBAL",4)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//Athkatla talk
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalksAthkatla","GLOBAL",0)
+OR(8)
+AreaCheck("AR0020")
+AreaCheck("AR0300")
+AreaCheck("AR0400")
+AreaCheck("AR0500")
+AreaCheck("AR0700")
+AreaCheck("AR0800")
+AreaCheck("AR0900")
+AreaCheck("AR1000")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksAthkatla","GLOBAL",1)
+END
+
+IF
+Global("I#ValygarFriendshipTalksAthkatla","GLOBAL",1)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//Temple Ruins
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+AreaCheck("AR1404")
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalksShadow","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksShadow","GLOBAL",1)
+RealSetGlobalTimer("L#ValygarFriendshipShadowTime","GLOBAL",10)
+END
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+AreaCheck("AR1404")
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalksShadow","GLOBAL",1)
+RealGlobalTimerExpired("L#ValygarFriendshipShadowTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksShadow","GLOBAL",2)
+END
+
+IF
+Global("I#ValygarFriendshipTalksShadow","GLOBAL",2)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+///// Additional talks
+///////////////////////////////////
+//Some time after the Slayer Change
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+GlobalGT("AsylumPlot","GLOBAL",42)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalksSlayer","GLOBAL",0)
+!Global("H#ValygarRomanceActive","GLOBAL",1)
+!Global("H#ValygarRomanceActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksSlayer","GLOBAL",1)
+RealSetGlobalTimer("L#ValygarFriendshipSlayerTime","GLOBAL",20)
+END
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+AreaCheck("AR1514")
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshipTalksSlayer","GLOBAL",1)
+RealGlobalTimerExpired("L#ValygarFriendshipSlayerTime","GLOBAL")
+!Global("H#ValygarRomanceActive","GLOBAL",1)
+!Global("H#ValygarRomanceActive","GLOBAL",2)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksSlayer","GLOBAL",2)
+END
+
+IF
+Global("I#ValygarFriendshipTalksSlayer","GLOBAL",2)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
+
+//After Bodhi's Death AND during visiting any other Athkatlan District than Graveyard
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+OR(2)
+PartyHasItem("c6lantho")
+Global("BodhiDead","GLOBAL",1)
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshupActive","GLOBAL",2)
+Global("I#ValygarFriendshipTalksBodhi","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksBodhi","GLOBAL",1)
+RealSetGlobalTimer("L#ValygarFriendshipBodhiTime","GLOBAL",20)
+END
+
+IF
+See(Player1)
+InParty(Myself)
+CombatCounter(0)
+OR(8)
+AreaCheck("AR0700")
+AreaCheck("AR0500")
+AreaCheck("AR0400")
+AreaCheck("AR0406")
+AreaCheck("AR0300")
+AreaCheck("AR0900")
+AreaCheck("AR1000")
+AreaCheck("AR0020")
+!StateCheck(Myself,CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Global("I#ValygarFriendshupActive","GLOBAL",2)
+Global("I#ValygarFriendshipTalksSlayer","GLOBAL",1)
+RealGlobalTimerExpired("L#ValygarFriendshipBodhiTime","GLOBAL")
+THEN
+RESPONSE #100
+SetGlobal("I#ValygarFriendshipTalksBodhi","GLOBAL",2)
+END
+
+IF
+Global("I#ValygarFriendshipTalksBodhi","GLOBAL",2)
+THEN
+RESPONSE #100
+StartDialogue("ValygarJ",Player1)
+END
