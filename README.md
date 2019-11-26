@@ -12,7 +12,7 @@ Baldur's Gate Trilogy and EET<h3>
 
 **Authors:** Lava Del'Vortel, fluke13 and many other great people  
 **Mod Website:** <a href="http://www.spellholdstudios.net/ie/npciep">Spellhold Studios</a>  
-**Mod Forum:** <a href="http://www.shsforums.net/index.php?showforum=353">Valygar Friendship</a><br /><br />
+**Mod Forum:** <a href="http://www.shsforums.net/forum/667-valygar-friendship/">Valygar Friendship</a><br /><br />
 
 
 <div align="center">
@@ -30,7 +30,7 @@ One of the things many find sorely lacking in the Bioware NPCs are the more comp
 This mod adds a series of dialogues with Valygar.
 
 
-Visit the <a href="http://www.spellholdstudios.net/ie/npciep">website</a> or <a href="http://www.shsforums.net/index.php?showforum=555">forum</a> for all the latest updates.
+Visit the <a href="http://www.spellholdstudios.net/ie/npciep">website</a> or <a href="http://www.shsforums.net/forum/667-valygar-friendship/">forum</a> for all the latest updates.
 
 
 <hr>
@@ -95,7 +95,7 @@ A: It most certainly should be (including Corthala Romantique), but we have not 
 A: After you join Valygar.
 
 **Q: This mod isn't in character at *all*.**  
-A: I'm always looking for ways to improve the characterisation in this mod, so please send any suggestions or constructive criticism on the <a href="http://www.shsforums.net">forums</a>.
+A: I'm always looking for ways to improve the characterisation in this mod, so please send any suggestions or constructive criticism on the <a href="http://www.shsforums.net/forum/667-valygar-friendship/">forums</a>.
 
 **Q: Have you got any plans to expand the mod by adding more dialogues in future?**  
 A: There are no current plans to add to the mod, no, but feel free to make suggestions!
@@ -159,6 +159,7 @@ ssssss
 
 - Added *valygarfriendship.ini* metadata file to support AL|EN's "Project Infinity".
 - Added `REQUIRE_PREDICATE` process to avoid installing the mod in inaccurate games.
+- Component: added *DESIGNATED* number and "*valygar_friendship*" LABEL.
 - Updated deprecated modding tools links.
 - Lower cased files.
 - Updated and renamed readme file to *valygarfriendship-readme-english.html*.
