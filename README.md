@@ -1,6 +1,6 @@
 ![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/ValygarFriendship?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macos%20%7C%20linux&color=informational)
-![Language](https://img.shields.io/static/v1?label=language&message=English&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=language&message=English%20%7C%20Russian&color=limegreen)
 
 <div align="center"><h1></a>Valygar Friendship</h1>
 
@@ -124,12 +124,13 @@ A: Sure, we'd be happy to. If you are interested in translating, just send us a 
 #### Additional help: jastey
 
 ## 
-ssssss
+
 #### Special Acknowledgements to:
 
 - Thank you to everyone on the Interaction Expansion project team, and everyone who has contributed to the mod!
 - Valygar Friendship is based on La'Valygar - that is why also the old mods assistance is still appreciated and should be remembered: Zyraen, Izzy, Aldark, Miloch.
 - AL|EN: Wrote process which automatically provides Windows, Linux and Mac versions in the same archive file.
+- Russian Translation: Alisia Messar, Enigma (Evilkiss) and Arcanecoast.ru.
 
 ## 
 
@@ -154,6 +155,12 @@ ssssss
 
 
 ## <a name="versions" id="versions"></a>Versions History
+
+##### Version 1.3 (January 6, 2020)
+
+- Added full Russian translation by Alisia Messar, Enigma (Evilkiss) and Arcanecoast.ru.
+
+## 
 
 ##### Version 1.2 (December 14, 2019)
 
