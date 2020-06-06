@@ -29,8 +29,8 @@ END
 LANGUAGE ~English~
 		 ~english~
 		 ~valygarfriendship/translations/english/setup.tra~
-LANGUAGE ~Russian~
-		 ~russian (translation by Alisia Messar, Enigma-Evilkiss and Arcanecoast.ru)~
+LANGUAGE ~Russian (translation by Alisia Messar, Enigma-Evilkiss and Arcanecoast.ru)~
+		 ~russian~
 		 ~valygarfriendship/translations/russian/setup.tra~
 //LANGUAGE ~Polish~ ~polish~ ~valygarfriendship/translations/polish/setup.tra~
 
