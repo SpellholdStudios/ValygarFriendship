@@ -1,6 +1,6 @@
 BACKUP ~valygarfriendship/backup~
 AUTHOR ~Lava~
-VERSION ~v1.3~
+VERSION ~v1.4~
 
 README ~valygarfriendship/valygarfriendship-readme-english.html~
 
@@ -32,8 +32,11 @@ LANGUAGE ~English~
 LANGUAGE ~Russian (translation by Alisia Messar, Enigma-Evilkiss and Arcanecoast.ru)~
 		 ~russian~
 		 ~valygarfriendship/translations/russian/setup.tra~
+LANGUAGE ~Chinese (translation by Merzbau)~
+		 ~schinese~
+		 ~valygarfriendship/translations/schinese/setup.tra~		 
+		 
 //LANGUAGE ~Polish~ ~polish~ ~valygarfriendship/translations/polish/setup.tra~
-
 //NOTE: Translations skipped as they are outdated after the mod update
 
 
