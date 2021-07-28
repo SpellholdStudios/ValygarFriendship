@@ -67,7 +67,6 @@ This mod is designed to work on the following Infinity Engine games: the origina
 The Valygar Friendship mod should be compatible with all WeiDU mods, however, we cannot test every single one. It is only compatible with BGII: ToB. If you do encounter an error, please let us know by posting the message at our forums.
 
 **Known issue:** The Valygar Friendship should work fine with Corthala Romantique, but switching between romance and friendship may deactivate some dialogues. We hope to make it work better in the future version of the mod.
-<div align="right"><a href="#top">Back to top</a></div>
 
 ## 
 
@@ -78,6 +77,8 @@ The Valygar Friendship mod should be compatible with all WeiDU mods, however, we
 Here is the recommended installation order:
 - Please install Valygar Friendship after TobEx, BG2 Fixpack, and EET.
 - Please install Valygar Friendship before EET_End, and any final "biffing" routines.
+<div align="right"><a href="#top">Back to top</a></div>
+
 
 <hr>
 
