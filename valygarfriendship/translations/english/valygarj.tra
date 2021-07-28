@@ -42,14 +42,15 @@
 @41   = ~Less muddled, though certainly far from ordered. I will need to think more on this, though I appreciate your time conversing with me.~
 @42   = ~You're right. We should continue on... in silence.~
 
-@43   = ~<CHARNAME>, your own... situation... reminds me of my family's curse. Born into an unescapable fate which must be fought against at every turn. We were both damned since birth.~
+@43   = ~<CHARNAME>, your own... situation... reminds me of my family's curse. Born into an inescapable fate which must be fought against at every turn. We were both damned since birth.~
 @44   = ~What do you mean by that exactly, Valygar?~
 @45   = ~You compare your family to Bhaalspawn? Don't make me laugh.~
 @46   = ~I have no time for such a ridiculous statement, Valygar.~
-@47 = ~Does the fact that all my relatives became obsessed and died make you laugh? Your own heritage can hardly be called unnoticed, especially by those who have shared a few days of your company.~@48   = ~Tell me what you meant, then maybe I'll understand better.~
+@47   = ~Does the fact that all my relatives became obsessed and died make you laugh? Your own heritage can hardly be called unnoticed, especially by those who have shared a few days of your company.~
+@48   = ~Tell me what you meant, then maybe I'll understand better.~
 @49   = ~It's completely ridiculous, Valygar. Just let it go.~
-@50 = ~All my kin died because of magic, because of the Corthala curse. We are tainted with sorcery, just as you are with Bhaal's wrath. It is difficult now to ignore how much trouble your heritage brings.~
-@51   = ~When you say it like that, it does sound quite forboding.~
+@50   = ~All my kin died because of magic, because of the Corthala curse. We are tainted with sorcery, just as you are with Bhaal's wrath. It is difficult now to ignore how much trouble your heritage brings.~
+@51   = ~When you say it like that, it does sound quite foreboding.~
 @52   = ~We are not doomed yet, Valygar. If I can fight my heritage, you can do the same.~
 @53   = ~I'm not in the mood for such heavy discussion, Valygar. Leave me be.~
 @54   = ~Congratulations. You actually made the hairs on my neck stand up.~
@@ -64,13 +65,13 @@
 @63   = ~I swear it, I won't sire any child. I'll make certain any accident would be impossible.~
 @64   = ~But just supposing it did happen?~
 @65   = ~I'm sorry, I didn't mean to offend you.~
-@66   = ~A child cannot just happen, if one is prepared to go to any length, then it is impossible and I won't argue hypotheticals.~
+@66   = ~A child cannot just happen, if one is prepared to go to any length, then it is impossible and I won't argue hypothetical.~
 @67   = ~I will not have a child, and the Corthala line *will* disappear with my death.~
 @68   = ~Fine.~
 @69   = ~Perhaps, but that doesn't make it any less true.~
 @70   = ~And what if the corruption were to reappear? It could be generations down the line. I won't let any other suffer what I endured.~
 @71   = ~Well, I've had a long time to think about it.~
-@72   = ~What about you? Have you thought about the consequences of continueing your bloodline?~
+@72   = ~What about you? Have you thought about the consequences of continuing your bloodline?~
 @73   = ~Being aware of it, helps me fight against it. I believe I and any future generation have a choice to fight or accept it, just as everyone has a choice.~
 @74   = ~I'm a demi-god and proud of my bloodline. Any offspring would be blessed with such power.~
 @75   = ~I do wish I were rid of my heritage. I'd rather be a normal adventurer and free to choose any life I wish.~
@@ -179,7 +180,7 @@
 @174  = ~That's positive, although there's a fine line between steadfast confidence and being overly optimistic.~
 @175  = ~Correct. Waiting is no option. Even if we fled, I'm certain he'd catch up with us sooner or later.~
 @176  = ~We can only react to what is, not what should be. But our actions now, can change what will be.~
-@177  = ~Since you like hypotheticals, let me pose one to you... what will you do if we are victorious and Irenicus is no more?~
+@177  = ~Since you like hypothetical, let me pose one to you... what will you do if we are victorious and Irenicus is no more?~
 @178  = ~I have no idea. I haven't given it much thought. What about you?~
 @179  = ~I suppose I'll travel to new places, find new adventures.~
 @180  = ~I'll try to settle down. Find a place to call home, friends, family.~
@@ -352,7 +353,7 @@
 
 @337 = ~That thing...~
 @338 = ~Was it awaken because of some magical abilities you pretend to control? Are you making exactly the same mistakes Lavok made? And like him, the hunger for power may attempt to consume you now? That thing... the Avatar of Bhaal...!~
-@339 = ~It has nothing to do with magic. At least not the arcane or divine arts we know. You noticed it youself. It has something to do with my heritage. And something Irenicus did.~
+@339 = ~It has nothing to do with magic. At least not the arcane or divine arts we know. You noticed it yourself. It has something to do with my heritage. And something Irenicus did.~
 @340 = ~Don't go on another rant about the whole "Magic is evil" thing. I know you can see it's more than that.~
 @341 = ~Something must have woke it up. Was it some spell Bodhi and that madman Irenicus cursed you with?!~
 @342 = ~Calm down, Valygar. I believe it has nothing to do with magic you hate some much. Not the kind we know. It was... something else. Something special he prepared. One of his "experiments"... That damn mage.~
@@ -391,7 +392,7 @@
 @371 = ~Whatever. I don't care what they're going to do. Actually the only thing I care about is time! So please, stop slowing us down, Valygar, and let us do our work.~
 @372 = ~Maybe... but that's what should be done, right?~
 @373 = ~We all make mistakes. You and I - are we so different?~
-@374 = ~I want to believe they won't doom their own home. Even if they'll make mistakes, mayhaps they will learn something when dealing with the consequences.~
+@374 = ~I want to believe they won't doom their own home. Even if they'll make mistakes, mayhap they will learn something when dealing with the consequences.~
 @375 = ~Heh, who would have thought that someone accused of breaking the law, someone who was first hiding in his cabin, would actually be the one who really cares about the community he knows.~
 @376 = ~I think you're right. I too want to believe they'll do just fine. We can't worry all the time and fail to trust in others. There are other people, besides us, who know how to get things back on track.~
 @377 = ~I think you're making a mistake putting so much faith in them, Valygar. They failed you once and they'll do it again.~
