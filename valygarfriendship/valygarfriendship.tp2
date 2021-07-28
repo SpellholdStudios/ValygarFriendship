@@ -2,7 +2,7 @@ BACKUP ~valygarfriendship/backup~
 AUTHOR ~Lava~
 VERSION ~v1.5~
 
-README ~valygarfriendship/valygarfriendship-readme-english.html~
+README ~valygarfriendship/readme/valygarfriendship-readme-english.html~
 
 AUTO_TRA ~valygarfriendship/translations/%s~
 
