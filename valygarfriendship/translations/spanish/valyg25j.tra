@@ -1,0 +1,171 @@
+@0    = ~Cuando cayó Irenicus, se produjo una sensación de finalidad, una resolución a todo lo que habíamos soportado, pero ahora parece que ese no fue el final de tu odisea.~
+@1    = ~Es cierto. Siempre hay algo nuevo en el horizonte.~
+@2    = ~Valygar, este no es un buen momento para profundizar en ese tema.~
+@3    = ~No lo sentí como el final. Entonces supe, como lo sé ahora, que mi viaje no tiene fin.~
+@4    = ~No elegí este camino. Tenía la esperanza de que todo hubiera terminado y que pudiera ser libre para disfrutar de mi vida.~
+
+@5    = ~Aunque fue tu aventura y tu lucha, sentí como si fuera mía también. Supongo que vi a Irenicus como un símbolo de mi propio tormento.~
+@6    = ~Siempre has estado en conflicto acerca de si la magia es inherentemente maligna o no. Irenicus era, sin duda, el símbolo del mal y la magia combinados. ~
+@7    = ~De cualquier manera, me alegré de tenerte allí, de mi lado, Valygar. Todos teníamos nuestras propias razones para enfrentarnos a Irenicus, pero lo más importante es que luchamos unidos.~
+@8    = ~Era un mago, corrompido por su deseo de poder, como lo fueron algunos de tus antepasados.~
+@9    = ~Irenicus causó mucho dolor. Incluso pensar en él me da un sabor amargo. He desperdiciado suficientes palabras y pensamientos en él. Sigamos adelante y hablemos de cosas más agradables en el futuro.~
+
+@10   = ~Si, esa puede ser la razón, o al menos en gran parte. Quería... no, necesitaba verlo caer.~
+@11   = ~Tienes toda la razón. Aunque fue un placer verlo caer, no fue la única razón por la que viajamos tanto tiempo juntos y luchamos codo con codo.~
+@12   = ~Cuando nos conocimos, detestaba toda la magia. Más tarde, me sentí en conflicto sobre si podría existir un equilibrio para usar la magia para bien. Cuando cayó Irenicus, mis dudas se evaporaron. Vi claramente la gran diferencia entre la corrupción en Irenicus y el justificado poder que usamos para acabar con esa corrupción. Fue como... romper mi propia maldición.~
+@13   = ~Siempre creí que podrías romper tu maldición, Valygar. Simplemente necesitabas creer eso ti mismo.~
+@14   = ~No debería haber sido necesario algo tan dramático para darte cuenta de eso, Valygar. Aun así, me alegro de que ahora lo hayas superado.~
+
+@15   = ~Aprecio tus palabras, pero si he cambiado, ¿por qué sigo pensando tanto en todo eso?~
+@16   = ~Cuando te conocimos, solo en tu cabaña, deseabas estar aislado. Incluso viajando con nosotros, de alguna manera, te sentías solo. Sin embargo, ahora hablas de cómo mejorar este mundo y te has convertido en una parte integral de este grupo.~
+@17   = ~No se trata de olvidar el pasado, esos recuerdos tan fuertes siempre se quedarán contigo. Se trata de aceptar lo sucedido y dejar de lado cualquier duda.~
+@18   = ~Detuviste a Lavok, o lo que sea que se había apoderado de él, y luego luchaste contra un mago monstruosamente peligroso. Literalmente te enfrentaste a todo a lo que estabas atado.~
+
+@19   = ~¿Realmente puede ser tan simple como eso? A veces pienso que pasé tanto tiempo luchando contra mis propias convicciones, que ahora soy reacio a dejarlas ir.~
+@20   = ~Bueno, nadie dijo que sería fácil, pero puede ser simple. Por lo general, lo correcto es el camino más simple, pero también el más difícil.~
+@21   = ~Entiendo lo que dices. Yo también me sentí incómodo durante nuestro tiempo descansando en Suldanessellar, como si después de soportar tanto, mi mente no me dejara descansar de verdad.~
+@22   = ~Sí, creo que puede ser...~
+@23   = ~Por lo que parece, te estás volviendo como Volo, repitiendo las mismas líneas una y otra vez.~
+
+@24   = ~No es que no escuche sabiduría en tus palabras, pero desearía poder aceptarlo de verdad.~
+@25   = ~Date tiempo, Valygar, y no te reprendas por ello.~
+@26   = ~Lo importante es que la gente que te conoce lo acepte. Yo veo a una persona en la que puedo confiar.~
+
+@27   = ~Pareces tener convicción en las acciones que tomamos, tanto las tuyas como las mías. Me pregunto si ese es tu verdadero poder: ¿tu capacidad para atraer y motivar a tus compañeros? Cuanto más aprendo sobre ti <CHARNAME>, más parezco encontrarme a mí mismo.~
+@28   = ~Gracias <CHARNAME>, una vez más, me has dado mucho en qué pensar.~
+
+@29   = ~No te molestaré más. Caminemos en silencio.~
+
+
+
+@30   = ~¿Recuerdas <CHARNAME> cuando hablamos hace mucho tiempo de adónde podría llevarnos nuestro viaje, cuando todo esté dicho y hecho? He decidido hacia donde iré después.~
+@31   = ~No lo recuerdo, pero dime Valygar, ¿adónde crees que irás?~
+@32   = ~Lo recuerdo. Dije que estaría listo para asentarme cuando todo esto terminara, encontrar por fin un poco de paz y construir un hogar.~
+@33   = ~Sí, recuerdo que ambos hablamos de continuar la aventura, ver nuevos lugares y luchar contra nuevos enemigos.~
+@34   = ~¿Después? Deberías estar pensando en nuestra actual misión, Valygar.~
+
+@35   = ~Es un lugar que siempre quise ver, pero siempre me las arreglé para inventar alguna excusa para no hacerlo. Me siento más liberado ahora, ya no le tengo miedo a mi sombra y estoy dispuesto a seguir mis sueños.~
+@36   = ~Creo que te sentará bien establecerte. Mi momento eventualmente llegará, pero por ahora tengo un lugar marcado en mi mapa.~
+@37   = ~Tenemos ideas afines tú y yo. Me imagino que algún día encontraremos un hogar, pero no hasta que nuestros espíritus estén completamente saciados de aventuras y maravillas.~
+@38   = ~Viajaré a Agua Profundas, la ciudad de los esplendores. La ciudad en sí es un lugar que siempre he deseado ver, aunque también muy temido para mí, desde que mi madre fue enterrada en la Ciudad de los Muertos.~
+@39   = ~Creo que es hora de deshacerme de esos temores y presentar mis respetos a la madre que una vez fue. También deseo usar la ciudad como base para explorar el bosque de Kryptgarden; he deseado conocer a los Treants que habitan allí, después de leerlos en los viajes de Volo.~
+@40   = ~Eso suena como dos buenas razones para ir allí, Valygar. Me alegro de que hayas superado tu temor.~
+@41   = ~Interesante, quizás me una a tí por un tiempo.~
+@42   = ~Eh, pensé que no volverías a hablar de tu madre. Estoy fuera.~
+
+@43   = ~Gracias. Realmente es gracias a ti que ya no dudo de mis acciones. Hay tantas cosas que he querido hacer y de las que me he reprimido.~
+@44   = ~Eres bienvenido, por supuesto. Pero una vez que lleguemos, espero que no te ofendas, pero deseo viajar solo, hacia el norte, a la naturaleza y descubrirme de nuevo a mí mismo.~
+@45   = ~No estoy seguro de dónde terminaré, pero ahora veo un nuevo mundo de posibilidades. Todavía prefiero la belleza de los lagos y bosques, pero ya no veo la ciudad como un árbol muerto, más como un árbol joven que necesita nutrirse para crecer.~
+@46   = ~Creo que puedo imaginarme hacia dónde se dirige tu futuro Valygar, como dijiste, las ciudades necesitan nutrirse, y hay pocos hombres buenos capaces de hacer tal cambio.~
+@47   = ~Un buen punto de vista y por el cual vivir bien en un futuro.. Creo que todos necesitaremos algo de tiempo para reflexionar y alejarnos de todo por un tiempo.~
+@48   = ~Tu amor por la naturaleza nunca deja de sorprenderme. Bueno, fue agradable charlar, sigamos adelante, ¿de acuerdo?~
+
+@49   = ~Los buenos hombres nunca desean ser líderes, por el poder que les brinda. Quizás, si estaba equivocado acerca de la corrupción inherente a la magia, eso también podría ser cierto para el poder. Sin embargo, estoy seguro de que me frustraría rápidamente al tratar con políticos.~
+@50   = ~Estoy seguro de que podrás manejarlo Valygar, solo es frustrante si sigues tu antigua forma de hacer las cosas. Si desea cambiar, no es necesario que se apliquen tales cosas.~
+@51   = ~De hecho, el poder es poder, ya sea mágico o político: la corrupción proviene de la persona, no del poder en sí.~
+@52   = ~La política es bastante aburrida, ¡vamos a matar algunos monstruos!~
+
+@53   = ~Creo que sería más que un simple descanso para mí. Más como un nuevo comienzo y una forma de vida sin ningún arrepentimiento.~
+@54   = ~Creo que lo más importante es garantizar que el cambio sea duradero. Si un buen líder ayuda a la gente, pero deja detrás un sistema roto, entonces todas sus obras pueden deshacerse.~
+@55   = ~Si hay un lugar que realmente necesita un cambio, es Athkatla. Pensé que la ciudad era incapaz de cambiar, pero ahora he visto cuánto cambio puede traer una persona, tal vez haya una posibilidad de renovación.~
+@56   = ~Pero no soy solo una persona, hemos hecho todas estas cosas como equipo.~
+@57   = ~¿Quizás deberías unirte al Consejo y hacer un cambio en Athkatla?~
+@58   = ~Valygar, debemos seguir adelante, así que guarda silencio.~
+
+@59   = ~Pero nos has inspirado y nos has unido <CHARNAME>, ese es exactamente el tipo de cambio necesario.~
+@60   = ~Lástima que tu sangre haga que la gente tenga tanto miedo, de lo contrario podrías cambiar esta ciudad y yo te ayudaría a lidiar con la nobleza.~
+@61   = ~No, no soy la persona adecuada. Quiero presenciar el cambio, pero no soy un líder.~
+@62   = ~Bueno, ese es un problema para otro momento. Ya te he prestado suficiente atención. Volvamos al presente.~
+@63   = ~Bien.~
+
+
+
+@64   = ~Cuando me enteré por primera vez de tu herencia, pensé que podría relacionarme contigo: dos almas con dificultades desde que nacimos. Pero ahora, todo el asunto se ha vuelto completamente abrumador. ¿Cómo lo manejas <CHARNAME>?~
+@65   = ~Ya sabes cómo es Valygar, no tengo forma de evitarlo, así que todo lo que puedo hacer es seguir adelante.~
+@66   = ~En realidad, no es tan diferente, excepto por todas las personas que intentan matarme.~
+@67   = ~Simplemente trato de no pensar en eso, hablar de eso frustra ese objetivo.~
+
+@68   = ~Illasera, la forma en que te miraron los elfos... las cosas se están poniendo mucho más serias. Incluso los eventos más recientes.~
+@69   = ~Nuestro futuro se vuelve menos seguro cada día y justo cuando comenzaba a soñar con las muchas cosas que todavía tengo por hacer.~
+@70   = ~Los Elfos de Suldanessellar tenían miedo de perder lo que acababan de recuperar. Y sobre los eventos por venir, sobreviviremos a estos Valygar, siempre lo hacemos.~
+@71   = ~No podemos cambiar eso Valygar o forzar la certeza, pero no debemos arrepentirnos. Lucharemos con todo nuestro corazón y sabremos que hacemos lo que hay que hacer.~
+@72   = ~Déjame tranquilo, Valygar. Tenemos que seguir adelante.~
+
+@73   = ~Tienes una voluntad fuerte.~
+@74   = ~Cierto.~
+@75   = ~Pero asegurémonos de que no haya tragedias heroicas. Yo cuido tu espalda y tú cuidas la mía.~
+@76   = ~Gracias.~
+@77   = ~Supongo que puedo vivir con eso.~
+@78   = ~Realmente aprecio tus palabras, Valygar.~
+@79   = ~Será mejor que sigamos adelante.~
+
+@80   = ~Eh, guarda tu aliento para la batalla, amigo mío. Será mejor que sigamos adelante.~
+@81   = ~Jeje, supongo que una vez más no tienes otra opción, amigo mío.~
+@82   = ~Cierto. Sigamos adelante.~
+
+
+///////////////////////////////////////////////////////////
+//AFTER REACHING THE OUTER SENDAI ENCLAVE AREA (THE FOREST)
+
+@83 = ~Hay algo muy malo en este lugar. Puedo sentir magia antinatural aquí, escondida entre los arbustos y árboles. Debemos tener cuidado <CHARNAME>, o podríamos meternos en serios problemas.~
+@84 = ~Creo que hace mucho tiempo que nos metimos en serios problemas.~
+@85 = ~Sería inusual no experimentar nada inusual aquí, Valygar. Por eso hemos venido.~
+@86 = ~No tenemos tiempo para esto. Deberíamos seguir adelante. Vamos.~
+@87 = ~Quizás. Incluso el más mínimo error o... cualquier distracción podría costarnos la vida. Prefiero advertirte que dejarte entrar directamente en una trampa. Mejor prevenir que curar, eso dicen.~
+@88 = ~Generalmente eres una persona segura, Valygar. Quizás, en ocasiones, demasiado seguro. Rara vez hablas sin pensarlo mucho de antemano.~
+@89 = ~Entiendo. Supongo que hay que establecer un equilibrio entre advertir a tus compañeros del peligro y confiar en ellos lo suficiente como para hacer frente a las señales más obvias.~
+@90 = ~Prefiero que te concentres en decir cosas útiles, no solo obvias. ¿No te parece?~
+@91 = ~Las palabras tienen valor, al igual que las acciones. Mis advertencias son pocas, pero siempre deben tomarse en serio. Una vez escuche un cuento sobre un niño que gritó "hombres lobo" demasiadas veces. Cuando llegaron, nadie le creyó.~
+@92 = ~Sí, aunque si uno se equivoca por el lado de la precaución, vive con menos remordimientos. Me propongo hablar solo cuando las palabras tengan valor, de esa manera se tomarán en serio. Una vez escuche un cuento sobre un niño que gritó "hombres lobo" demasiadas veces. Cuando llegaron, nadie le creyó.~
+@93 = ~Así que, es por eso que a menudo hago una pausa antes de hablar. Quiero asegurarme de que mis palabras tengan un impacto, que quienes me rodean sepan que hay una buena razón para escucharme cuando hablo.~
+@94 = ~Esa es una forma interesante de pensar, Valygar.~
+@95 = ~También hay que considerar la voz del líder. Si todos en el grupo expresaran lo que piensan en cualquier momento, sería más difícil liderar.~
+@96 = ~Pero no estás solo Valygar, trabajamos como grupo y hay otras voces por hacerse escuchar. A veces, tu razonamiento sugiere que no somos conscientes y no podemos observar y escuchar como tu.~
+@97 = ~Me alegro de que estés aquí para cuidarnos las espaldas. En nuestra línea de trabajo, necesitamos siempre un par de ojos y oídos para vigilar. Asegúrese de advertirnos sobre cualquier cosa que consideres inusual.~
+@98 = ~Como sea, Valygar. Creo que deberíamos seguir adelante en vez de perder el tiempo hablando de cosas obvias.~
+@99 = ~No quiero hacerle perder el tiempo de nadie, a menos que sea realmente necesario.~
+@100 = ~Yo... tal vez. Nunca quise hablar con nadie, <CHARNAME>. Nunca fue mi intención molestarte o insinuar una falta de conciencia de tu parte.~
+@101 = ~Estoy haciendo todo lo que puedo, <CHARNAME>. He pasado incontables horas tratando de agudizar mis sentidos. Ha sido un <DAYNIGHT> largo y no necesitamos problemas innecesarios.~
+@102 = ~En realidad, hay algo sobre lo que quiero preguntarte, si no te importa.~
+@103 = ~¿Qué tienes en mente Valygar?~
+@104 = ~¿Sí?~
+@105 = ~Sí me importa. Ya deberíamos seguir moviéndonos, Valygar.~
+@106 = ~Está claro que ninguno de nosotros es perfecto. Pero... ¿Te arrepientes de nuestro viaje hasta ahora, de cosas a las que llegamos demasiado tarde o que no pudimos detener?~
+@107 = ~Hay muchas cosas que desearía que nunca hubieran sucedido.~
+@108 = ~Sí. Me culpo por lo que le pasó a Saradush.~
+@109 = ~No puedo detener cada muerte o desventura. Ninguno de nosotros puede y no me haré responsable de eso.~
+@110 = ~¿Qué clase de pregunta estúpida es esa? Eso es retórico, Valygar.~
+@111 = ~Ya veo.~
+@112 = ~Tu viaje es todo menos corto y fácil. Sería imposible que un viaje así transcurriera sin al menos algunas situaciones difíciles.~
+@113 = ~Saradush fue una gran tragedia. Yo... yo también desearía que nunca hubiera sucedido. Y también me horroriza la idea de que podría haber sucedido lo mismo en Athkatla si no hubiéramos podido detener a Irenicus, Bodhi y las guerras de gremios entre los vampiros y los Ladrones de las Sombras.~
+@114 = ~Eso es verdad. Pero incluso siendo conscientes de nuestros límites, no podemos detener ciertos sentimientos... como el arrepentimiento.~
+@115 = ~De todos modos, gracias por decírmelo, <CHARNAME>. Ahora, estamos aquí por una razón, así que no tomaré más de tu tiempo. Hay algunos engendros de Bhaal que debemos detener.~
+@116 = ~Muy bien. Vamos.~
+@117 = ~¡Por fin...!~
+@118 = ~Estoy justo detrás de tí.~
+@119 = ~Si tanto deseabas seguir adelante, deberías habérmelo dicho desde el principio, <CHARNAME>.~
+@120 = ~Bien. Deberías haberme dicho que no quieres escuchar lo que tengo que decir.~
+@121 = ~Saemon... ese hombre significa problemas. Me sorprende que siga vivo. Parece que tiene más suerte que sentido común.~
+@122 = ~Ja, bueno... claramente puede poner nerviosa a la gente.~
+@123 = ~No es tan malo, es todo un personaje. Puede ser divertido.~
+@124 = ~¿En serio? Creo que ustedes dos tienen eso en común.~
+@125 = ~Quizás. No sé. Realmente no estoy de humor para perder mi tiempo con él.~
+@126 = ~una apreciación muy superficial, heh...~
+@127 = ~Si sigue poniendo a prueba su suerte, es posible que se le acabe.~
+@128 = ~No estoy seguro de entender.~
+@129 = ~Solo quise decir que es un tipo que sabe bien cómo meterse en problemas y, sin embargo, continúa su camino. No sin un sentido de propósito y placer, podría agregar.~
+@130 = ~Un hombre que sabe lo suficientemente bien cómo meterse en problemas, pero que aún hace lo que hace, pase lo que pase. Y no sin disfrutarlo, supongo.~
+@131 = ~Uhm, no importa. De todos modos, es bastante temerario, ¿no?~
+@132 = ~Esa misma descripción te quedaría igual de bien.~
+@133 = ~Deshazte de la palabra "hombre" y la descripción puede encajar también contigo.~
+@134 = ~Supongo que este mundo está lleno de hombres como Saemon Havarian. Codiciosos en su búsqueda de dinero fácil y con grandes expectativas de vida. Un hombre empeñado en ahogar el dolor con placer y diversión, en lugar de buscar satisfacción.~
+@135 = ~No podemos culpar a las personas que desean disfrutar de su vida hasta el límite, Valygar.~
+@136 = ~Creo que no te agrada, Corthala.~
+@137 = ~Podemos nombrarlo correctamente, Valygar: es un gamberro egocéntrico.~
+@138 = ~Supongo que eso es válido.~
+@139 = ~¿Podemos dejar de juzgar a la gente y seguir adelante, Valygar? No tenemos tiempo para esto.~
+@140 = ~Por supuesto. No podemos. A menos que las cosas que disfruta afecten a los demás.~
+@141 = ~No diría que no me agrada. Del mismo modo que no diría que estoy feliz de volver a verlo. Es... un hombre difícil. Ahora mismo me pregunto qué calamidad nos espera después de soportar su presencia.~
+@142 = ~Puede que sea un egocéntrico, pero ahora me estoy imaginando en cómo su presencia volverá para perseguirnos en un futuro. Porque estoy bastante seguro de que lo hará.~
+@143 = ~Bueno, al menos ahora sabemos qué tipo de hombre es y que siempre tiene algunos ases bajo la manga... o una baraja entera.~
+@144 = ~Bien.~
